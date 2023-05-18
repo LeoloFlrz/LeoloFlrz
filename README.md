@@ -1,5 +1,8 @@
 ### About Me 👋
 
+
+- Im currently studying Full Stack Web development.
+- Working and learning every day.
 <!--
 **LeoloFlrz/LeoloFlrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
