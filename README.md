@@ -9,7 +9,7 @@
 
 
 ### Current Stack ⚡
-https://img.freepik.com/iconos-gratis/html-5_318-674234.jpg
+<img src="https://img.freepik.com/iconos-gratis/html-5_318-674234.jpg" alt="icono html"/>
 <!--
 **LeoloFlrz/LeoloFlrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
