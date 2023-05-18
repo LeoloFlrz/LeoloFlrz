@@ -4,6 +4,12 @@
 - Im currently studying Full Stack Web development.
 - Working and learning every day.
 - Student from FactoríaF5
+- I love working on a group and sharing our knowledge.
+
+
+
+### Current Stack ⚡
+https://img.freepik.com/iconos-gratis/html-5_318-674234.jpg
 <!--
 **LeoloFlrz/LeoloFlrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
